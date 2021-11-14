@@ -1,0 +1,15 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-position: left center;   
+    background-size: cover;
+}
+
+.foto{
+    width: 250px;
+}
+
+p{
+    color: rgb(43, 43, 43);
+}
