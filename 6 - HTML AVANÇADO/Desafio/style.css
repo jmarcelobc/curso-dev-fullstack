@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+body {
+    background-image: url(background.png);
+    background-size: cover;
+    font-family: 'Lato', sans-serif;  
+}
+
+div {
+    color: white;
+    text-align: center;
+}
+
+.dados{
+    border-radius: 10%;
+    width: 45%;
+}
+
+.button{
+    background-color: rgb(35, 35, 245);
+    color: white;
+}
+
+
